@@ -1,0 +1,17 @@
+body{
+    background: linear-gradient(blue,darkred);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.caixa{
+    width: fit-content;
+    background: white;
+    padding: 20px;
+    border-radius: 20px;
+}
+img{
+    width: 100px;
+    height: 180px;
+}
